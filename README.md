@@ -17,7 +17,10 @@ April – 2024
  **Introduction**
  
 In an era defined by digitalization and data-driven decision-making, the efficient management of information is crucial for organizational success. However, traditional form-filling processes remain a bottleneck, consuming valuable time and resources. This project addresses the pressing need for streamlined administrative automation by harnessing the transformative power of Natural Language Processing (NLP), Deep Learning, and Computer Vision technologies. By automating the form-filling process, the project not only enhances operational efficiency but also unlocks new possibilities for productivity and innovation in diverse industries.
-Importance of NLP, Deep Learning, and Computer Vision
+
+
+**Importance of NLP, Deep Learning, and Computer Vision**
+
 1. NLP for Text Extraction and Analysis:
 Natural Language Processing techniques are instrumental in extracting textual information from various formats, including PDFs, Word documents, and Excel spreadsheets. Through sophisticated algorithms, NLP enables the identification of form questions and the extraction of relevant data points, laying the groundwork for automated processing.
 2. Deep Learning for Answer Generation:
